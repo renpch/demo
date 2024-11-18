@@ -10,9 +10,7 @@ public class ScoreDto {
 
     private Double score;
 
-
-
-//    private String studentId;
+    private String studentId;
 
     public void setStudentId(String studentId) {
     }
